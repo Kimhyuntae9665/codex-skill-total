@@ -1,0 +1,6 @@
+# Preserve the exact bundled source bytes for SHA-256 verification.
+* -text
+*.exe binary
+*.png binary
+*.jpg binary
+*.webp binary

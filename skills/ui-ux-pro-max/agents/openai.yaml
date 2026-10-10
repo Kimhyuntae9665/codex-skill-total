@@ -1,0 +1,6 @@
+interface:
+  display_name: "UI/UX Pro Max"
+  short_description: "Search local UI patterns and generate design systems."
+  default_prompt: "Use $ui-ux-pro-max to design a readable operations dashboard."
+policy:
+  allow_implicit_invocation: true

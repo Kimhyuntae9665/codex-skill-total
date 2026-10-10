@@ -1,0 +1,6 @@
+interface:
+  display_name: "Archify"
+  short_description: "Create explorable HTML architecture and workflow diagrams."
+  default_prompt: "Use $archify to visualize this project as an interactive diagram."
+policy:
+  allow_implicit_invocation: true
